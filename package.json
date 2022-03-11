@@ -1,0 +1,23 @@
+{
+  "name": "task4",
+  "version": "1.0.0",
+  "description": "Web Scrapping",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarveshskk/Task4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sarveshskk/Task4/issues"
+  },
+  "homepage": "https://github.com/Sarveshskk/Task4#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "puppeteer": "^13.5.1"
+  }
+}
